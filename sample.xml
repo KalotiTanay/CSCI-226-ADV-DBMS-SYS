@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE news SYSTEM "domain.dtd">
+<news>
+  <title>AI Beats Human at Strategy Game</title>
+  <summary>An AI system has defeated top players in a new strategy game, raising questions about AI potential.</summary>
+  <category>Technology</category>
+  <publishTime>2025-08-31T09:00:00Z</publishTime>
+  <engagement>
+    <views>15000</views>
+    <shares>600</shares>
+  </engagement>
+  <source>
+    <name>BBC News</name>
+    <credibility>high</credibility>
+  </source>
+  <sentiment>neutral</sentiment>
+</news>

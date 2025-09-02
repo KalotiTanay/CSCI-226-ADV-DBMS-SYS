@@ -1,0 +1,12 @@
+<!ELEMENT news (title, summary, category, publishTime, engagement, source, sentiment)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT summary (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT publishTime (#PCDATA)>
+<!ELEMENT engagement (views, shares)>
+<!ELEMENT views (#PCDATA)>
+<!ELEMENT shares (#PCDATA)>
+<!ELEMENT source (name, credibility)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT credibility (#PCDATA)>
+<!ELEMENT sentiment (#PCDATA)>
